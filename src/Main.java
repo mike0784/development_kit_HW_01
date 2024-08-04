@@ -1,3 +1,6 @@
+import client.ClientGUI;
+import server.ServerWindow;
+
 import java.io.IOException;
 
 public class Main {
